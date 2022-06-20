@@ -9,12 +9,15 @@ A tool that can create a folder for temporary files and clean the files on a reg
 # Configuration
 ## TempFilePath
 + Default: "D:\Temp"
+    
     It sets the path of the temporary folder, which the program will clean.
 ## CleanHours
 + Default: 0.5
+    
     It sets how often the program will clean the folder.
 ## Version
 + Default: 1.0
+    
     It shows the version of this program.
 # Others
 + [Ce-daros](https://github.com/Ce-daros)
