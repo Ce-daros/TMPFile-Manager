@@ -12,7 +12,7 @@ A tool that can create a folder for temporary files and clean the files on a reg
     
     It sets the path of the temporary folder, which the program will clean.
 ## CleanHours
-+ Default: 0.5
++ Default: 1
     
     It sets how often the program will clean the folder.
 ## Version
